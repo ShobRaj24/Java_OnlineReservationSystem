@@ -1,7 +1,2 @@
 # Java_OnlineReservationSystem
-Oasis Infobyte Java Development Internship
-n this project, I had the privilege to work on developing an Online Examination System using Java. This system enables seamless online assessments, allowing users to take exams, receive immediate results, and track their progress.
-
-The project involved creating a robust and user-friendly interface for both exam takers and administrators. Users can log in, choose their exams, answer questions, and receive scores instantly. Administrators can manage exams, add questions, and monitor exam sessions.
-
-I'm incredibly proud of the work put into this project, and it's been an invaluable learning experience. I'm thankful to the Oasis Infobyte team for their continuous support and guidance.
+I had the opportunity to lead the development of an Online Reservation System using Java. This dynamic system empowers users to effortlessly reserve services and appointments with just a few clicks. Whether it's booking hotel rooms, reserving restaurant tables, or securing appointment slots, our system streamlines the process and enhances the user experience.
